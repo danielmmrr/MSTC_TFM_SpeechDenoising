@@ -1,0 +1,8 @@
+Keras==2.3.1
+tensorflow==1.15.2
+librosa==0.6.0
+pypesq==0.0.0
+Cython
+git+git://github.com/schmiph2/python-pesq
+git+git://github.com/schmiph2/pystoi
+git+git://github.com/schmiph2/pysepm
